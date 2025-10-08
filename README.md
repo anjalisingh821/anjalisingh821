@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<h3 align="center">A passionate Cloud Engineer & DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalisingh821&label=Profile%20views&color=0e75b6&style=flat" alt="anjalisingh821" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalisingh821" alt="anjalisingh821" /></a> </p>
 
-- 🌱 I’m currently learning **Clouds**
+- 🌱 I’m currently learning **Clouds&DevOps**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **Clouds**
 
-- 💬 Ask me about **clouds**
+- 💬 Ask me about **clouds& DevOps**
 
 - 📫 How to reach me **singhanjalirajput1232@gmail.com**
 
